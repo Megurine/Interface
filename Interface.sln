@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface\Interface.csproj", "{67FC8989-C866-4E10-8C60-1EA9188F2BB8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "InterfaceContent", "Interface\InterfaceContent\InterfaceContent.contentproj", "{1294F9F3-393F-46F0-AD14-927F4281F338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FC8989-C866-4E10-8C60-1EA9188F2BB8}.Debug|x86.ActiveCfg = Debug|x86
+		{67FC8989-C866-4E10-8C60-1EA9188F2BB8}.Debug|x86.Build.0 = Debug|x86
+		{67FC8989-C866-4E10-8C60-1EA9188F2BB8}.Release|x86.ActiveCfg = Release|x86
+		{67FC8989-C866-4E10-8C60-1EA9188F2BB8}.Release|x86.Build.0 = Release|x86
+		{1294F9F3-393F-46F0-AD14-927F4281F338}.Debug|x86.ActiveCfg = Debug|x86
+		{1294F9F3-393F-46F0-AD14-927F4281F338}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
